@@ -1,0 +1,11 @@
+Package: net.kenhtao.homeplusprefs
+Version: 2.4.0-alpha3 
+Section: Tweaks
+Maintainer:Kênh Táo
+Architecture: iphoneos-arm
+Filename: ./debs/HomePlus.deb
+Size: 1.310.398
+MD5sum:66d81b600278fefaebd091d1615a5462
+Description: Sắp xếp biểu tượng màn hinh chính 
+Name: HomePlus
+Author: Kritanta
