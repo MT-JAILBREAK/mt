@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Minh Tuấn
 Architecture: iphoneos-arm
 Filename: ./debs/HomePlus.deb
-Size: 1.310.398
+Size: 1.310.720
 MD5Sum: 66d81b600278fefaebd091d1615a5462
 SHA1: c7453f98afbc24e3c7b98fe715d740de02110775
 Description: Sắp xếp biểu tượng màn hinh chính 
