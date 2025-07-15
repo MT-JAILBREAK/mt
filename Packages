@@ -5,8 +5,9 @@ Maintainer: Minh Tuấn
 Architecture: iphoneos-arm
 Filename: ./debs/HomePlus.deb
 Size: 1.310.720
-MD5Sum: 66d81b600278fefaebd091d1615a5462
+MD5sum: 66d81b600278fefaebd091d1615a5462
 SHA1: c7453f98afbc24e3c7b98fe715d740de02110775
+SHA256: 376a3dd3c011dd43c26e4483cdf1d60fcddfc14534e1551351a393595deb42cb
 Description: Sắp xếp biểu tượng màn hinh chính 
 Name: HomePlus
 Author: Kritanta
