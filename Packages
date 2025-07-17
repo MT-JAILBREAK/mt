@@ -1,16 +1,16 @@
 Package: mt-jaibreak.github.io
-Version: 2.4.0-alpha3 
+Version: 1.0 
 Section: Tweaks
-Maintain: Minh Tuấn
+Maintain: Minh Tuấn Repo
 Architecture: iphoneos-arm
-Filename: ./debs/HomePlus.deb
+Filename: ./debs/HomePlus VH.deb
 Size: 1310398
 MD5sum: 993fc39212f8e9b10b61e8151c379dd0
 SHA1: d6a8039d79028db511d225e60571f346769ba645
 SHA256: 14a1dae83e75MD5sum: 993fc39212f8e9b10b61e8151c379dd0
 77d64eea526f730cda32873f81621fcb512ff023da00eb90cd7f
 Depends: mobilesubstrate,preferenceloader
-Description: Sắp xếp biểu tượng màn hinh chính 
+Description: Sắp xếp bố cục trên màn hinh chính 
 Name: HomePlus
 Author: Kritanta
 
