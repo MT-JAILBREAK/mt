@@ -3,13 +3,13 @@ Version: 1.0
 Section: Tweaks
 Maintain: Minh Tuấn Repo
 Architecture: iphoneos-arm
-Filename: ./debs/HomePlus.deb
-Size: 1310398
-MD5Sum: 87002f77dfc6ffc913255e798d24e52a
+Filename: ./debs/HomePlus VH.deb
+Size: 1.310.264
+MD5sum: 87002f77dfc6ffc913255e798d24e52a
 SHA1: 0ce82eafcb18299817c7ea97041d328dd088dee2
 SHA256: 2b439e9e60518dfb42b6dcf5a869be3d772cdda74299a1ba63204aa55ad2902d
 Depends: mobilesubstrate,preferenceloader
 Description: Sắp xếp bố cục trên màn hinh chính 
-Name: HomePlus
+Name: HomePlus VH
 Author: Kritanta
 
