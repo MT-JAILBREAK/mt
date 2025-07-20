@@ -20,8 +20,8 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 
 Filename: ./debs/XenHTML.deb
-Size: 3547762
-Package: com.matchstic.xenhtml
+Size: 3547766
+Package: com.matchstic.XenHTMLPrefs
 Version: 4.0~release
 Section: Tweaks
 Maintainer: Matt Clarke <matt@incendo.ws>
@@ -33,8 +33,8 @@ Name: XenHTML VN
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 8ad7e1ffe52b202cc342b8b03cf3c8ed
-SHA1: 850fc12284b507c615b7e5ac2ca086dff814166a
-SHA256: 25ad2bce4fdc34a8e3c3391e6c84b27ae3e3af65747b9d27b9cd023dd6f2a4f7
+MD5sum: 7dbf6fe10c871ba0d0abd3ff2136e964
+SHA1: 5d39d588058230112b9680057baf5e455d95e463
+SHA256: fe36e56130fd7289e985f72e9796030ff8dedc94f15db08691efaa454748fc11
 
 
