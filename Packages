@@ -20,9 +20,9 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24852120
-Package: com.c1d3r.ChargeAnimationsPreference
-Version: 3.0.6
+Size: 24852152
+Package: mt-jailbreak.ChargeAnimationsPreference
+Version: 3.0.7
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Homepage: https://minhtuan1985.github.io/mt-jaibreak
@@ -32,8 +32,8 @@ Architecture: iphoneos-arm
 Name: ChargeAnimations VN
 Author: c1d3r
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: af10129d1f5eefb589a30048353d18d6
-SHA1: ccf2874f90e1bb3c0810ad0fe5774cc186506f7d
-SHA256: 6a1a690182b69a4f39dbab4d2f8cfee563ffb114a15092a5104c690cb4d8f785
+MD5sum: 0b9e187ff4bd045284b320768353115a
+SHA1: 780d172c6be831bb9339869f57588da166048d50
+SHA256: 953679db82d8e5f08f8732caff7811a61979d08a253a6e67d6c4933040625bbb
 
 
