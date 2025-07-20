@@ -20,7 +20,7 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24852114
+Size: 24851888
 Package: mt-jailbreak.chargeanimations
 Version: 3.0.6
 Section: Tweaks
@@ -32,8 +32,8 @@ Name: ChargeAnimations VN
 Author: c1d3r
 Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 449f0adc7637ce9b16aaf6a1e95e96c5
-SHA1: d69145b7bc3f8830d3a09b771832e3a192386d2b
-SHA256: da818304f3a127ebe45bc0b159cbf7d6cad8b5eba2b1780ee7e64c2f6fb289b9
+MD5sum: 5fea5e027e8102868974dfdbc00e6a54
+SHA1: 2589d1b665687df892943c2a991579c44d132a1c
+SHA256: 7517b113db2c34cc6358a63b9ea374acc727a35805d1a8c649417a2feaf9a542
 
 
