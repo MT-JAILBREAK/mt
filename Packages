@@ -1,21 +1,4 @@
-
-Filename: ./debs/HomePlus.deb
-Size: 1310330
-Package: mt-jailbreak.homeplus
-Version: 1.1
-Section: Tweaks
-Maintainer: Minh Tuấn Repo
-Homepage: https://repo.krit.me/pack/homeplus
-Description: Sắp xếp bố cục trên màn hình chính
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Name: HomePlus VN
-Author: Kritanta
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 9613b312eefc16588281f09d12218539
 SHA1: 3cc1366456558bc129c267477747dbb15cf51a27
-SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
-
 Filename: ./debs/xenHTML.deb
 Size: 3851412
 Package: com.matchstic.xenhtml
