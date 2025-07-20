@@ -26,6 +26,7 @@ Version: 3.0.6
 Priority: optional
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
+Homepage: http://minhtuan1985.github.io/mt-jaibreak
 Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
 Name: ChargeAnimations VN
