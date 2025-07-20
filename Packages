@@ -26,11 +26,11 @@ Version: 3.0.6
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Homepage: https://minhtuan1985.github.io/mt-jaibreak
+Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
 Name: ChargeAnimations VN
 Author: c1d3r
-Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 5fea5e027e8102868974dfdbc00e6a54
 SHA1: 2589d1b665687df892943c2a991579c44d132a1c
