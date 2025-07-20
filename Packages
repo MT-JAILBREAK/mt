@@ -23,7 +23,7 @@ Filename: ./debs/XenHTML.deb
 Size: 3547762
 Package: com.matchstic.xenhtml
 Version: 4.0~release
-Section: System
+Section: Tweaks
 Maintainer: Matt Clarke <matt@incendo.ws>
 Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
@@ -33,8 +33,8 @@ Name: XenHTML VN
 Author: Matt Clarke <matt@incendo.ws>
 dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 2f1ab9d29159057965eec6b91daa2587
-SHA1: 531c89edb99f806dc21dac3e76c632d6e8360b6e
-SHA256: c9e6d6ea74f49891fb59773e86d861279be886d76acf9c3c7d7e5a31e5d3d44c
+MD5sum: 8ad7e1ffe52b202cc342b8b03cf3c8ed
+SHA1: 850fc12284b507c615b7e5ac2ca086dff814166a
+SHA256: 25ad2bce4fdc34a8e3c3391e6c84b27ae3e3af65747b9d27b9cd023dd6f2a4f7
 
 
