@@ -21,7 +21,7 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 Filename: ./debs/XenHTML.deb
 Size: 3851412
-Package: com.matchstic.xenhtml
+Package: mt-jailbreak.xenhtml
 Version: 4.0~release
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
@@ -29,7 +29,7 @@ Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
 Architecture: iphoneos-arm
-Name: XenHTML VN
+Name: Xen HTML VN
 Author: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 73eba02459d6b52dac861988c7222f7a
