@@ -1,15 +1,19 @@
-Package: me.kritana.homepluspefs
-Version: 1.0 
-Section: Tweaks
-Maintain: Minh Tuấn Repo
-Architecture: iphoneos-arm
-Filename: ./debs/HomePlusVH.deb
-Size: 1310264
-MD5sum: 0f307df4a1398382e39b14b95d818572
-SHA1: 3e3e84cea96056bfbc8ff1d490afe81bb8a0d9f9
-SHA256: c5de515f65adc05152bab45452b08ea7b3cfbf79fcb78d112c3a010f96635df1
-Depends: mobilesubstrate,preferenceloader
-Description: Sắp xếp bố cục trên màn hinh chính 
-Name: HomePlus
-Author: Kritanta
 
+Filename: ./debs/HomePlus.deb
+Size: 1310392
+Package: net.kenhtao.homeplus
+Version: 1.1
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Homepage: https://repo.krit.me/pack/homeplus
+Description: Điều khiển bố cục trên màn hình chính theo cách bạn muốn!
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: HomePlus VN
+Author: Kritanta
+Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.homepluspro
+Depiction: https://repo.kenhtao.net/view/7598
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: ced4f7865501d6e06737df2e2b53fe4e
+SHA1: 3038e83d18e778157ede418c5349859133e67272
+SAH256: 25111a877088979372d6a96e27eaff228f46ced070301597b97273f63986d3bc
