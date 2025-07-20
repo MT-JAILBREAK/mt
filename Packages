@@ -1,6 +1,6 @@
 
 Filename: ./debs/HomePlus.deb
-Size: 1310380
+Size: 1310330
 Package: mt-jailbreak.homeplus
 Version: 1.1
 Section: Tweaks
@@ -11,9 +11,7 @@ Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Name: HomePlus VN
 Author: Kritanta
-Sileodepiction: http://repo.kenhtao.net/sileo-depiction/net.kenhtao.homepluspro
-Depiction: https://repo.kenhtao.net/view/7598
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: df5ae1233e05dc687c4ac7cad9eccefe
-SHA1: e227eb3e520a20830db9ec3bbf3e91b0fd44aaed
-SHA256: 36d846d8e64a084e9d37c0069d619693509c9ba00ad8fb75f1dbdc47277d388a
+MD5sum: 9613b312eefc16588281f09d12218539
+SHA1: 3cc1366456558bc129c267477747dbb15cf51a27
+SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
