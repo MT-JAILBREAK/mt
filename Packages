@@ -32,6 +32,6 @@ Architecture: iphoneos-arm
 Name: XenHTML VN
 Author: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 5ceaba2603f341b1530e039aa1cdf9d8
-SHA1: 41e452fbf3a78db80653f48cb10bc19c14e4ec2f
-SHA256: f7f2fd05d1f56aaa4ad0c1cab7029d19d5d0503b59fcfc830004471344ad3a31
+MD5sum: 06fc60d2c8650fcc9fdc0e3cccd4c544
+SHA1: 742284e5af31ca70a76480f8317613b80e9e8911
+SHA256: 5e79f0bf36cffe193ef83c9d78cb5a496cce250293e0a5aabbe23031377c9087
