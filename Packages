@@ -20,8 +20,8 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 
 Filename: ./debs/XenHTML.deb
-Size: 3547770
-Package: mt-jailbreak.xenhtml
+Size: 3547762
+Package: com.matchstic.xenhtml
 Version: 4.0~release
 Section: Tweaks
 Maintainer: Matt Clarke <matt@incendo.ws>
@@ -32,6 +32,6 @@ Architecture: iphoneos-arm
 Name: XenHTML VN
 Author: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 06fc60d2c8650fcc9fdc0e3cccd4c544
-SHA1: 742284e5af31ca70a76480f8317613b80e9e8911
-SHA256: 5e79f0bf36cffe193ef83c9d78cb5a496cce250293e0a5aabbe23031377c9087
+MD5sum: 2f1ab9d29159057965eec6b91daa2587
+SHA1: 531c89edb99f806dc21dac3e76c632d6e8360b6e
+SHA256: c9e6d6ea74f49891fb59773e86d861279be886d76acf9c3c7d7e5a31e5d3d44c
