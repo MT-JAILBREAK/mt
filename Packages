@@ -19,22 +19,21 @@ SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 
 
-Filename: ./debs/XenHTML.deb
-Size: 3547766
-Package: com.matchstic.XenHTMLPrefs
-Version: 4.0~release
+Filename: ./debs/ChargeAnimations.deb
+Size: 24852112
+Package: net.kenhtao.ChargeAnimations
+Version: 3.0.6
+Priority: optional
 Section: Tweaks
-Maintainer: Matt Clarke <matt@incendo.ws>
-Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
-Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
-Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Maintainer: Kênh Táo
+Depends: net.kenhtao.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
-Name: XenHTML VN
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
+Name: ChargeAnimations VN
+Author: c1d3r
+Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 7dbf6fe10c871ba0d0abd3ff2136e964
-SHA1: 5d39d588058230112b9680057baf5e455d95e463
-SHA256: fe36e56130fd7289e985f72e9796030ff8dedc94f15db08691efaa454748fc11
+MD5sum: e275db9b9852426e5db7da78bc42211c
+SHA1: 5152812dc25ca9839a19895a0ff6e8d5cc8972ff
+SHA256: bc9213bd51ba9047ec960eef0d5d9bdac47959ffabf0652927581b8f19b86914
 
 
