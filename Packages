@@ -23,7 +23,6 @@ Filename: ./debs/ChargeAnimations.deb
 Size: 24852114
 Package: mt-jailbreak.chargeanimations
 Version: 3.0.6
-Priority: optional
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Homepage: http://minhtuan1985.github.io/mt-jaibreak
