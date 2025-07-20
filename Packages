@@ -1,0 +1,37 @@
+
+Filename: ./debs/HomePlus.deb
+Size: 1310330
+Package: mt-jailbreak.homeplus
+Version: 1.1
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Homepage: https://repo.krit.me/pack/homeplus
+Description: Sắp xếp bố cục trên màn hình chính
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Name: HomePlus VN
+Author: Kritanta
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 9613b312eefc16588281f09d12218539
+SHA1: 3cc1366456558bc129c267477747dbb15cf51a27
+SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
+
+
+
+
+Filename: ./debs/XenHTML.deb
+Size: 3851412
+Package: com.matchstic.xenhtml
+Version: 4.0~release
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Thêm tiện ích lên Màn hình chính & Màn hình khoá
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.unlimapps.uaunbox, com.rpetrich.rocketbootstrap
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3, com.matchstic.infostats2, com.matchstic.infostats
+Architecture: iphoneos-arm
+Name: XenHTML VN
+Author: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 73eba02459d6b52dac861988c7222f7a
+SHA1: 0da95c987bf2be3a9781966b45610ea59a64d589
+SHA256: 586c47de033873a21d63ea686c89e826b8e5d0ce6adde02bd67ce8d999ff184b
