@@ -1,9 +1,9 @@
-Origin: mt-jaibreak
+Origin: Minh Tuấn Repo
 Label: MT Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Minh Tuấn Repo
+Description: MT Repo
 Icon: https://minhtuan1985.github.io/mt-jailbreak/icon.png

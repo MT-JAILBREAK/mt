@@ -12,6 +12,6 @@ Architecture: iphoneos-arm
 Name: HomePlus VN
 Author: Kritanta
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: ced4f7865501d6e06737df2e2b53fe4e
-SHA1: 3038e83d18e778157ede418c5349859133e67272
-SAH256: 25111a877088979372d6a96e27eaff228f46ced070301597b97273f63986d3bc
+MD5sum: c0603c208e7893885f307a267d0fc6c4
+SHA1: d70de28d88f14a92f29ebc5cca4b6a12be5244a0
+SAH256: 1ec84a64f3dafb69805e546bf0caba2f7a2cc1fbb3c2755b20b89651a532dbc6
