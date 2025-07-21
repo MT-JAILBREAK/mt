@@ -17,19 +17,19 @@ SHA1: 3cc1366456558bc129c267477747dbb15cf51a27
 SHA256: 058a9bc26a16152830371c7fb0939cf0beb703d4ba7d0cd2b13f2df9a438bcbe
 
 Filename: ./debs/ChargeAnimations.deb
-Size: 24852122
-Package: net.kenhtao.ChargeAnimations
-Version: 3.0.6
+Size: 24852146
+Package: mt-jailbreak.ChargeAnimations
+Version: 3.1
 Section: Tweaks
-Maintainer: Kênh Táo
+Maintainer: Minh Tuấn Repo
 Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
 Depends: net.kenhtao.cracktool4 | com.julioverne.cracktool4, firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
 Architecture: iphoneos-arm
 Name: ChargeAnimations VN
 Author: c1d3r
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: e5b30b40503852bfd9382c9661368f23
-SHA1: e333add63fdb26dd1df8096cae96128b1018f653
-SHA256: ff7322f6a5683582644da48fba16ec5acc77f1046f1e838ac06bcec63294e892
+MD5sum: 87749ff0a7735daadf4d07cbc0a04560
+SHA1: 874751542d7cb1f31b4211e7128f7af39cde6357
+SHA256: 333a924aa46606ae297fec3d310ec7043f46b2ec274d2f1eebb2c18b75af49c4
 
 
