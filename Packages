@@ -34,3 +34,21 @@ SHA1: 874751542d7cb1f31b4211e7128f7af39cde6357
 SHA256: 333a924aa46606ae297fec3d310ec7043f46b2ec274d2f1eebb2c18b75af49c4
 
 
+Filename: ./debs/Cracktool4.deb
+Size: 2957400
+Package: mt-jailbreak.ChargeAnimations
+Version: 4.1
+Section: Ultilities
+Maintainer: Minh Tuấn RepoHomepage: https://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
+Description: Trình kích hoạt bản quyền!
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Conflicts: com.julioverne.cracktool4
+Architecture: iphoneos-arm
+Name: CrackTool4 (iOS 9 - 14)
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+MD5sum: e4d45ca4189cbb2b62f8641f6fd06322
+SHA1: ed93fd41e6c9a541535f36c36a0a0a6f2b233522
+SHA256: 9c12ccb07eaf2660daed1e10168802ec8c93610ec836b393013c14cab8e5645b
+
+
