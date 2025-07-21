@@ -62,7 +62,7 @@ Maintainer: Minh Tuấn Repo
 Description: Trung tâm thông báo hiện đại hơn.
 Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Name: Centaur
+Name: Centaur VN
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 159112dedbeb84e518d863167751aca6
