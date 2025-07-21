@@ -53,3 +53,22 @@ SHA1: 0114a2adacc4159dbd62437eeee2e2900a9d144c
 SHA256: a2d5de9425ceb395572dc2d7da6c2f336cd46c1cdd29b41f62861bacf0588d5d
 
 
+Filename: ./debs/Centaur.deb
+Size: 785832
+Package: mt-jailbreak.centaur
+Version: 1.2
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Trung tâm thông báo theo cách bạn muốn
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Name: Centaur
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+MD5sum: ee27eca11c852ad2ea2e422f07d73800
+SHA1: 8d5bf230db1cf7a58c5a8f0c3fd37efc83c98cb4
+SHA256: add80ba98b2c2667291eb19135a6c876977d54742d859b9732374376c6ce507b
+
+
+
+
