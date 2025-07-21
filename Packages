@@ -54,7 +54,7 @@ SHA256: a2d5de9425ceb395572dc2d7da6c2f336cd46c1cdd29b41f62861bacf0588d5d
 
 
 Filename: ./debs/Centaur.deb
-Size: 449234
+Size: 449436
 Package: mt-jailbreak.centaur
 Version: 1.2
 Section: Tweaks
@@ -65,9 +65,9 @@ Architecture: iphoneos-arm
 Name: Centaur VH
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 56bfd5f1558c719177a28aa08bca78bc
-SHA1: 6ebfd371becbc4d26ff07d7d35a699c305a91ecf
-SHA256: 05a60efcbbae5575868e21c5355ddd4e911b90b7cab3772fc92c408f45b2a18f
+MD5sum: 513b445f845620b33a0ea2c5d19551e8
+SHA1: 4f6a569ca946a36a94cba01b1ce38a99eb63db4c
+SHA256: ae85fc34f5cba54b96ad90c6fa7d8f9be774194c1fede8d037e84d2f1fc8e606
 
 
 
