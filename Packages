@@ -92,7 +92,8 @@ Version: 2.2.1
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Description: Cửa sổ đa nhiệm hoàn hảo cho thiết bị của bạn!
-Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applistArchitecture: iphoneos-arm
+Depends: mt-jailbreak.cracktool4 | com.julioverne.cracktool4, firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Architecture: iphoneos-arm
 Name: PullOver Pro VH
 Author: c1d3r
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
