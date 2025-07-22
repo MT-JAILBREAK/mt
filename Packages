@@ -71,7 +71,7 @@ SHA256: ae85fc34f5cba54b96ad90c6fa7d8f9be774194c1fede8d037e84d2f1fc8e606
 
 
 Filename: ./debs/KeyboardPlus.deb
-Size: 429686
+Size: 429660
 Package: mt-jailbreak.keyboardplus
 Version: 2.1
 Section: Tweaks
@@ -82,7 +82,7 @@ Architecture: iphoneos-arm
 Name: KeyboardPlus VH
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: c47c6343db367a17d72d9d674f93f159
+MD5sum: bb99e29e78a9951f296db1a3a79edb4f
 
 
 
