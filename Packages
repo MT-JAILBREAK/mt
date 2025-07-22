@@ -70,5 +70,22 @@ SHA1: 4f6a569ca946a36a94cba01b1ce38a99eb63db4c
 SHA256: ae85fc34f5cba54b96ad90c6fa7d8f9be774194c1fede8d037e84d2f1fc8e606
 
 
+Filename: ./debs/KeyboardPlus.deb
+Size: 825800
+Package: mt-jailbreak.keyboardplus
+Version: 2.0
+Section: Tweaks
+Maintainer: Minh Tuấn Repo
+Description: Bổ sung các tính năng cho bàn phím của bạn!
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Architecture: iphoneos-arm
+Name: KeyboardPlus VH
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+MD5sum: 8d33727e17d70cea3497e4922102373b
+
+
+
+
 
 
