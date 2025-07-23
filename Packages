@@ -49,9 +49,9 @@ MD5sum: 439dca67cafed3329e0617d437a01fc1
 
 
 Filename: ./debs/Centaur.deb
-Size: 449436
+Size: 449422
 Package: mt-jailbreak.centaur
-Version: 1.2
+Version: 2.0
 Section: Tweaks
 Maintainer: Minh Tuấn Repo
 Description: Trung tâm thông báo hiện đại hơn.
@@ -60,7 +60,7 @@ Architecture: iphoneos-arm
 Name: Centaur VH
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 513b445f845620b33a0ea2c5d19551e8
+MD5sum: 5c594a028879ccd6983fed694648fb8b
 
 
 Filename: ./debs/KeyboardPlus.deb
