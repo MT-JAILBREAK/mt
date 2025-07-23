@@ -64,7 +64,7 @@ MD5sum: 513b445f845620b33a0ea2c5d19551e8
 
 
 Filename: ./debs/KeyboardPlus.deb
-Size: 429716
+Size: 429712
 Package: mt-jailbreak.keyboardplus
 Version: 2.1
 Section: Tweaks
@@ -75,7 +75,7 @@ Architecture: iphoneos-arm
 Name: KeyboardPlus VH
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 5adb819964b945ef256228521bb21d3b
+MD5sum: 23ce470ffb53266eaab24185f7b9b9e5
 
 
 Filename: ./debs/PulloverPro.deb
