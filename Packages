@@ -45,8 +45,7 @@ Name: CrackTool4 (iOS 9 - 14)
 Author: julioverne
 Icon: file:///Applications/Cydia.app/Sections/tienich.png
 MD5sum: 439dca67cafed3329e0617d437a01fc1
-SHA1: 0114a2adacc4159dbd62437eeee2e2900a9d144c
-SHA256: a2d5de9425ceb395572dc2d7da6c2f336cd46c1cdd29b41f62861bacf0588d5d
+
 
 
 Filename: ./debs/Centaur.deb
@@ -62,12 +61,10 @@ Name: Centaur VH
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 513b445f845620b33a0ea2c5d19551e8
-SHA1: 4f6a569ca946a36a94cba01b1ce38a99eb63db4c
-SHA256: ae85fc34f5cba54b96ad90c6fa7d8f9be774194c1fede8d037e84d2f1fc8e606
 
 
 Filename: ./debs/KeyboardPlus.deb
-Size: 429660
+Size: 429662
 Package: mt-jailbreak.keyboardplus
 Version: 2.1
 Section: Tweaks
@@ -78,7 +75,7 @@ Architecture: iphoneos-arm
 Name: KeyboardPlus VH
 Author: Ryan Nair
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: bb99e29e78a9951f296db1a3a79edb4f
+MD5sum: 133b30f0fc497b19c8173ec6af2595b3
 
 
 Filename: ./debs/PulloverPro.deb
