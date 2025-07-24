@@ -78,8 +78,8 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 MD5sum: 23ce470ffb53266eaab24185f7b9b9e5
 
 
-Filename: ./debs/PulloverPro.deb
-Size: 1562270
+Filename: ./debs/PullOverPro.deb
+Size: 1521602
 Package: mt-jailbreak.PullOverPro
 Version: 2.2.1
 Section: Tweaks
@@ -90,7 +90,7 @@ Architecture: iphoneos-arm
 Name: PullOver Pro VH
 Author: c1d3r
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-MD5sum: 586a44029db356e211dd4d124a5d7a41
+MD5sum: 09a29915beabd5f3138d5a23a88ca61c
 
 
 
